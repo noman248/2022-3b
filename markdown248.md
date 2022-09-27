@@ -31,7 +31,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 😸😎
 [國立高雄科技大學](https://www.nkust.edu.tw/)
-![NKUST](nkust.png.jpg "nkust")
+![NKUST](nkust.png "nkust")
 - [ ] todo list
 - [x] done
 
